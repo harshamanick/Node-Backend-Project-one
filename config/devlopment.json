@@ -1,0 +1,6 @@
+{
+    "name":"EXpress_APP_devlopment",
+    "mail":{
+        "host":"dev_mail_server"
+    }
+}
